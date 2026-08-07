@@ -21,13 +21,12 @@
 
 ### I am a Masters Students studying Data Science 
 
--   🔭 I’m currently studying Applied Data Science at University of Southern California:grin:
+-   🔭 I’m currently studying Applied Data Science at University of Southern California :grin:
 -   🌱 I’m a Machine Learning Engineer.
 -   👯 I’m looking to collaborate with other Developers in AI/ML :wink:
 -   💬 Feel free to reach me about anything, I am happy to help :smile:
 -   📬 How to reach me: [Let's get in touch!][linkedin]
 -   🧗 I try to: Explore new paths and push my limits
--   ⚡ Fun fact: I love connecting with different people and love to sing :raised_hands:
 
 <br>
 
