@@ -19,18 +19,31 @@
 
 <img align="right" height="270px" alt="GIF" src="https://raw.githubusercontent.com/PratikGarai/PratikGarai/master/code.gif" />
 
-### I am a Masters Students studying Data Science 
+### I am a Masters Students studying Applied Data Science at University of Southern California
 
--   🔭 I’m currently studying Applied Data Science at University of Southern California :grin:
--   🌱 I’m a Machine Learning Engineer.
--   👯 I’m looking to collaborate with other Developers in AI/ML :wink:
+-   🔭 I’m currently working on various projects :grin:
+-   🌱 Machine Learning, Natural Language Processing, Large Language Models, Inference and DevOps is my forte.
+-   👯 I’m looking to collaborate with other Research Scientists, Data Scientists and Machine Learning Engineers :wink:
+-   🥅 2026 Goals: Contribute to Novel Research ideas in NLP
 -   💬 Feel free to reach me about anything, I am happy to help :smile:
 -   📬 How to reach me: [Let's get in touch!][linkedin]
 -   🧗 I try to: Explore new paths and push my limits
+-   ⚡ Fun fact: I love connecting with different people and travelling :raised_hands:
 
 <br>
 
-### Languages and Tools:
+### Skills
+
+- **Languages & Tools:** Python, Java, PySpark, SQL, Docker, Kubernetes, Git, Helm, Terraform
+  
+- **ML & AI Frameworks:** PyTorch, TensorFlow, Hugging Face, Lang Chain/Graph, vLLM, Scikit-Learn, Pandas
+  
+- **ML Specialization:** Machine Learning, Natural Language Processing, Large Language Models, Multimodal Models, AI Agents, Retrieval-Augmented Generation (RAG), Information Retrieval, Search Engines, Vector Databases, Deep-Learning Systems
+
+- **Data & Systems:** AWS (EKS, ECS, Bedrock, RDS), Inference Engineering, Model Evaluation, Apache Kafka, CI/CD, ETL
+<br>
+<br>
+<br>
 
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -53,50 +66,13 @@
 <br>
 <br>
 
-<!--
-<details>
-  <summary>:zap: Github Stats</summary>
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sumanth-Talluri&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Lakshya's Github Stats">
-</p>
-<br>
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=radical">
-</p>
-</details> -->
-
 ### :zap: Github Stats
 
-  <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=Ishita-0112&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Arin's Github Stats" width="60%">
+  <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=ArinPaul&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Arin's Github Stats" width="60%">
 
-<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=Ishita-0112&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Ishita's Top Languages">
-
-<!-- stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=dark)
-![Sumanth's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth-Talluri&show_icons=true&hide_border=true")-->
-
-<!-- repos
-<a href="https://github.com/Sumanth-Talluri/Readers-Cabin">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanth-Talluri&repo=Readers-Cabin&theme=dark" />
-</a>
-<a href="https://github.com/Sumanth-Talluri/JPMorgan-Chase-Virtual-Internship">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanth-Talluri&repo=JPMorgan-Chase-Virtual-Internship&theme=dark" />
-</a>
-<a href="https://github.com/Sumanth-Talluri/Python-for-Everybody-Specialization">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanth-Talluri&repo=Python-for-Everybody-Specialization&theme=dark" />
-</a>
--->
+<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=ArinPaul&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Arin's Top Languages">
 
 <br>
-
-<!-- ### :zap: Recent Github Activity -->
-
-<!--START_SECTION:activity-->
-
-<!-- 1. ❌ Closed PR [#1](https://github.com/codeSTACKr/goal-manager-react/pull/1) in [codeSTACKr/goal-manager-react](https://github.com/codeSTACKr/goal-manager-react)
-2. 💪 Opened PR [#1](https://github.com/t-satwik/Python-programs/pull/1) in [t-satwik/Python-programs](https://github.com/t-satwik/Python-programs)
-3. 🗣 Commented on [#143](https://github.com/dwyl/start-here/issues/143) in [dwyl/start-here](https://github.com/dwyl/start-here)
- <!--END_SECTION:activity-->
 
 <br>
 
