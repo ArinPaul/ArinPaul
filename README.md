@@ -55,28 +55,28 @@
 <br>
 <br>
 
-<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" alt="Kubernetes" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
-<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Helm" width="40px" src="https://cdn.simpleicons.org/helm/0F1689" />
-<img align="left" alt="Terraform" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" />
-<img align="left" alt="TensorFlow" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
-<img align="left" alt="Hugging Face" width="40px" src="https://cdn.simpleicons.org/huggingface/FFD21E" />
-<img align="left" alt="LangChain" width="40px" src="https://cdn.simpleicons.org/langchain/1C3C3C" />
-<img align="left" alt="Scikit-Learn" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" />
-<img align="left" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
-<img align="left" alt="Jira" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
-<img align="left" alt="GitHub Actions" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
-<img align="left" alt="PostgreSQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
-<img align="left" alt="Linux" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
-<img align="left" alt="Apache Spark" width="40px" src="https://img.icons8.com/color/48/apache-spark.png" />
-<img align="left" alt="Apache Kafka" width="40px" src="https://img.icons8.com/nolan/64/apache-kafka.png" />
-<img align="left" alt="Pandas" width="40px" src="https://img.icons8.com/color/48/pandas.png" />
-<img align="left" alt="Pytorch" width="40px" src="https://img.icons8.com/arcade/64/pytorch.png" />
-<img align="left" alt="MongoDB" width="40px" src="https://img.icons8.com/color/48/mongo-db.png" />
+<img align="left" alt="Python" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Java" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="SQL" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="Docker" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+<img align="left" alt="Kubernetes" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
+<img align="left" alt="Git" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Helm" width="45px" src="https://cdn.simpleicons.org/helm/0F1689" />
+<img align="left" alt="Terraform" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" />
+<img align="left" alt="TensorFlow" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
+<img align="left" alt="Hugging Face" width="45px" src="https://cdn.simpleicons.org/huggingface/FFD21E" />
+<img align="left" alt="LangChain" width="45px" src="https://cdn.simpleicons.org/langchain/1C3C3C" />
+<img align="left" alt="Scikit-Learn" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" />
+<img align="left" alt="AWS" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
+<img align="left" alt="Jira" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
+<img align="left" alt="GitHub Actions" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
+<img align="left" alt="PostgreSQL" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+<img align="left" alt="Linux" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+<img align="left" alt="Apache Spark" width="45px" src="https://img.icons8.com/color/48/apache-spark.png" />
+<img align="left" alt="Apache Kafka" width="45px" src="https://img.icons8.com/nolan/64/apache-kafka.png" />
+<img align="left" alt="Pandas" width="45px" src="https://img.icons8.com/color/48/pandas.png" />
+<img align="left" alt="Pytorch" width="45px" src="https://img.icons8.com/arcade/64/pytorch.png" />
+<img align="left" alt="MongoDB" width="45px" src="https://img.icons8.com/color/48/mongo-db.png" />
 <br>
 <br>
 <br>
