@@ -73,6 +73,10 @@
 <img align="left" alt="PostgreSQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
 <img align="left" alt="Linux" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 <img align="left" alt="Apache Spark" width="35px" src="https://img.icons8.com/color/48/apache-spark.png" />
+<img align="left" alt="Apache Kafka" width="35px" src="https://img.icons8.com/nolan/64/apache-kafka.png" />
+<img align="left" alt="Pandas" width="35px" src="https://img.icons8.com/color/48/pandas.png" />
+<img align="left" alt="Pytorch" width="35px" src="https://img.icons8.com/arcade/64/pytorch.png" />
+<img align="left" alt="MongoDB" width="35px" src="https://img.icons8.com/color/48/mongo-db.png" />
 <br>
 <br>
 <br>
