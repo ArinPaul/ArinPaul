@@ -68,6 +68,11 @@
 <img align="left" alt="LangChain" width="35px" src="https://cdn.simpleicons.org/langchain/1C3C3C" />
 <img align="left" alt="Scikit-Learn" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" />
 <img align="left" alt="AWS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
+<img align="left" alt="Jira" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
+<img align="left" alt="GitHub Actions" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
+<img align="left" alt="PostgreSQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+<img align="left" alt="Linux" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+<img align="left" alt="Apache Spark" width="35px" src="https://img.icons8.com/color/48/apache-spark.png" />
 <br>
 <br>
 <br>
