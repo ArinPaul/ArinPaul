@@ -44,14 +44,13 @@
 
 ### Skills
 
-- **Languages & Tools:** Python, Java, PySpark, SQL, Docker, Kubernetes, Git, Helm, Terraform
+- **Languages & Tools:** Python, Java, PySpark, SQL, Docker, Kubernetes, Git, Helm, Terraform, MongoDB, REST
   
-- **ML & AI Frameworks:** PyTorch, TensorFlow, Hugging Face, Lang Chain/Graph, vLLM, Scikit-Learn, Pandas
+- **ML & AI Frameworks:** PyTorch, TensorFlow, NLTK, Hugging Face, Lang Chain/Graph, vLLM, Scikit-Learn, Pandas, OpenCV
   
-- **ML Specialization:** Machine Learning, Natural Language Processing, Large Language Models, Multimodal Models, AI Agents, Retrieval-Augmented Generation (RAG), Information Retrieval, Search Engines, Vector Databases, Deep-Learning Systems
+- **ML Specialization:** Machine Learning, Natural Language Processing, Computer Vision, Large Language Models, Multimodal Models, AI Agents, Retrieval-Augmented Generation (RAG), Information Retrieval, Search Engines, Vector Databases, Deep-Learning Systems
 
 - **Data & Systems:** AWS (EKS, ECS, Bedrock, RDS), Inference Engineering, Model Evaluation, Apache Kafka, CI/CD, ETL
-<br>
 <br>
 <br>
 
@@ -77,6 +76,10 @@
 <img align="left" alt="Pandas" width="45px" src="https://img.icons8.com/color/48/pandas.png" />
 <img align="left" alt="Pytorch" width="45px" src="https://img.icons8.com/arcade/64/pytorch.png" />
 <img align="left" alt="MongoDB" width="45px" src="https://img.icons8.com/color/48/mongo-db.png" />
+<img align="left" alt="OpenCV" width="45px" src="https://img.icons8.com/color/48/opencv.png" />
+<img align="left" alt="Cpp" width="45px" src="https://img.icons8.com/nolan/64/c-plus-plus-logo.png" />
+<img align="left" alt="Jenkins" width="45px" src="https://img.icons8.com/color/48/jenkins.png" />
+<img align="left" alt="Azure" width="45px" src="https://img.icons8.com/color/48/azure-1.png" />
 <br>
 <br>
 <br>
