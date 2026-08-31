@@ -19,7 +19,7 @@
 
 <img align="right" height="270px" alt="GIF" src="https://raw.githubusercontent.com/PratikGarai/PratikGarai/master/code.gif" />
 
-### I am a Masters Students studying Applied Data Science at University of Southern California
+### I am a Masters Students studying Applied Data Science at University of Southern California, CA.
 
 -   🔭 I’m currently working on various projects :grin:
 -   🌱 Machine Learning, Natural Language Processing, Large Language Models, Inference and DevOps is my forte.
@@ -31,6 +31,16 @@
 -   ⚡ Fun fact: I love connecting with different people and travelling :raised_hands:
 
 <br>
+
+<p align="center">
+  <a href="https://github.com/ArinPaul/ArinPaul/blob/main/Arin_Paul_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Click%20Here-blue?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" />
+  </a>
+  &nbsp;
+  <a href="https://arinpaul.github.io/portfolio-website/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-Visit-green?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+</p>
 
 ### Skills
 
@@ -45,22 +55,23 @@
 <br>
 <br>
 
-<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Java" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="Apache Spark" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/apache-spark/apache-spark.png" />
 <img align="left" alt="SQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="Docker" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+<img align="left" alt="Kubernetes" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
 <img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="java" width="35px" src="https://symbols-electrical.getvecta.com/stencil_85/10_java-icon.e6c5a2a97a.jpg" /> 
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" /> 
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-<img align="left" alt="Tensorflow" width="35px" src="https://4.bp.blogspot.com/-mya0XZqrtJs/XoN9SufkS2I/AAAAAAAAC5w/y5POjjt0Rs8B8uLLO1gegGb74MYTx7W7gCLcBGAsYHQ/s1600/TF_FullColor_Icon.jpg" /> 
+<img align="left" alt="Helm" width="35px" src="https://cdn.simpleicons.org/helm/0F1689" />
+<img align="left" alt="Terraform" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" />
+<img align="left" alt="PyTorch" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pytorch/pytorch.png" />
+<img align="left" alt="TensorFlow" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
+<img align="left" alt="Hugging Face" width="35px" src="https://cdn.simpleicons.org/huggingface/FFD21E" />
+<img align="left" alt="LangChain" width="35px" src="https://cdn.simpleicons.org/langchain/1C3C3C" />
+<img align="left" alt="Scikit-Learn" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" />
+<img align="left" alt="Pandas" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pandas/pandas.png" />
+<img align="left" alt="AWS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
+<img align="left" alt="Apache Kafka" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kafka/kafka.png" />
 <br>
 <br>
 <br>
