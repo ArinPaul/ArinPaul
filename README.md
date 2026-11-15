@@ -1,11 +1,11 @@
 <!-- ═══════════════════════════════  HEADER  ═══════════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Arin%20Paul&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Passionately%20Curious%20%E2%80%A2%20ML%20%2B%20Systems%20Engineer&descAlignY=60&descSize=18&animation=fadeIn" alt="Arin Paul" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Arin%20Paul&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Passionately%20Curious%20%E2%80%A2%20ML%20%2B%20Software%20Engineer&descAlignY=60&descSize=18&animation=fadeIn" alt="Arin Paul" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=720&height=45&lines=MS+Applied+Data+Science+%40+USC+%E2%80%A2+4.00+GPA;Ex-Senior+Software+Engineer+%40+Moneyview;Building+RAG+%26+Multimodal+AI+Systems;Distributed+Search+%E2%80%A2+LLM+Inference+%E2%80%A2+Cloud+Infra" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=720&height=45&lines=MS+Applied+Data+Science+%40+USC+%E2%80%A2+4.00+GPA;Ex-Software+Engineer+%40+Moneyview;Building+RAG+%26+Multimodal+AI+Systems;Distributed+Search+%E2%80%A2+LLM+Inference+%E2%80%A2+Cloud+Infra" alt="Typing SVG" />
   </a>
 </p>
 
