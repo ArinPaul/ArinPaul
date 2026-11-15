@@ -42,11 +42,11 @@ class ArinPaul:
         "VIT":  "B.Tech ECE · 9.25/10 · '22",
     }
     current    = "Research Assistant @ USC — uncertainty in CNN embeddings"
-    previously = "Senior SWE @ Moneyview — 3 yrs of cloud, k8s & APIs at scale"
+    previously = "SWE @ Moneyview — 3 yrs of cloud, k8s & APIs at scale"
 
     focus = [
-        "LLMs & RAG", "Multimodal AI", "Information Retrieval",
-        "Inference Engineering", "Distributed Systems",
+        "LLMs & RAG", "DevOps", "Information Retrieval",
+        "Software Engineering", "Distributed Systems", "Data Science", 
     ]
 
     def goal_2026(self):
